@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on self projects 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on any any python related program develpment
-- 🤔 I’m looking for help with Industrial level work experience
-- 💬 Ask me about anything realted to Python and ML
-- 📫 How to reach me: through github/linkedin ---> Id = "divyanv"
+Hi there 👋
+🌱 I'm an ML Enthusiast.
+👯 I've done many projects related ML and looking forward for more project collaborations
+🤔 I’m looking for help with Industrial level work experience
+💬 Ask me about anything realted to Machine Learning.
 
