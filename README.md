@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 #### 💯 I am dedicated to delivering results that drive real impact 💰
 
-#### 💼 Offer Freelancing Services 💼
-Are you looking for a reliable and skilled backend developer for your next project? Look no further! I'm available for hire and ready to bring your vision to life.
-
 #### 📷 Photography is my creative outlet 📷
 
 #### 🎨 I have a passion for drawing, art, and craft work 🎨
