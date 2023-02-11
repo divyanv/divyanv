@@ -5,9 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-Hi there 👋
-🌱 I'm an ML Enthusiast.
-👯 I've done many projects related ML and looking forward for more project collaborations
-🤔 I’m looking for help with Industrial level work experience
-💬 Ask me about anything realted to Machine Learning.
+💻 Backend software engineer 🚀
+⚙️ Driven to build efficient, scalable, and secure systems 🔒
+🐍 Strong foundation in Python 💻
+🔌 Experience working with APIs and databases 💾
+💪 Expertise in designing and implementing high-performance backend solutions 💥
+💯 Committed to delivering results that make a real impact 💰
+📷 Photographer at heart 📷🎨 Skilled in drawing, art, and craft work 🎨
+🤝 Ready to turn your vision into a reality together 🚀
 
