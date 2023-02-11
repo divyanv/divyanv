@@ -5,14 +5,26 @@
 
 Here are some ideas to get you started:
 -->
-## 💻 Backend software engineer 🚀
-- ⚙️ Driven to build efficient, scalable, and secure systems 🔒
-- 🐍 Strong foundation in Python 💻
-- 🔌 Experience working with APIs and databases 💾
-- 💪 Expertise in designing and implementing high-performance backend solutions 💥
-- 💯 Committed to delivering results that make a real impact 💰
-- 📷 Photographer at heart 📷
-- 🎨 Skilled in drawing, art, and craft work 🎨
-- 🤝 Ready to turn your vision into a reality together 🚀
+## 💻 I'm a Backend Software Engineer 🚀
+
+#### 🔧 I specialize in creating efficient, secure, and scalable systems 🔒
+
+##### 🐍 My expertise in Python makes me a master at delivering top-notch solutions 💻
+
+#### 💻 I have a wealth of experience in API and database development 💾
+
+#### 💪 I excel at designing and implementing high-performance backend solutions 💥
+
+#### 💯 I am dedicated to delivering results that drive real impact 💰
+
+#### 💼 Offer Freelancing Services 💼
+Are you looking for a reliable and skilled backend developer for your next project? Look no further! I'm available for hire and ready to bring your vision to life.
+
+#### 📷 Photography is my creative outlet 📷
+
+#### 🎨 I have a passion for drawing, art, and craft work 🎨
+
+#### 🤝 Let's work together to bring your vision to life 🚀
+
 
 
