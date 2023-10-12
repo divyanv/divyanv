@@ -30,7 +30,7 @@
 
 ## 💻 Tech Stack
 
-##### Python and Python Libraries : 
+#### Python and Python Libraries : 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 [![NumPy](https://img.shields.io/badge/NumPy-2596be?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
@@ -45,22 +45,22 @@
 [![NLTK](https://img.shields.io/badge/NLTK-4C8A51?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/api/nltk.html)
 [![Gensim](https://img.shields.io/badge/Gensim-306998?style=for-the-badge&logo=gensim&logoColor=white)](https://radimrehurek.com/gensim/auto_examples/index.html)
 
-### Web Development Tools and Frameworks : 
+#### Web Development Tools and Frameworks : 
 [![RESTful](https://img.shields.io/badge/RESTful-000000?style=for-the-badge&logo=restful&logoColor=white)](https://restful.io/)
 [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/docs/getting-started/introduction/)
 
-##### Cloud Services and Platforms : 
+#### Cloud Services and Platforms : 
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-00A2ED?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://docs.microsoft.com/en-us/azure/)
 [![AWS (Amazon Web Services)](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/)
 
-##### Database Technologies : 
+#### Database Technologies : 
 [![MYSQL](https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)](https://docs.microsoft.com/en-us/sql/t-sql/statements/)
 [![T-SQL](https://img.shields.io/badge/T-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/t-sql/statements/)
 [![Microsoft SQL Server Integration Services (SSIS)](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/integration-services/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/manual/)
 
-##### Development Tools and IDEs : 
+#### Development Tools and IDEs : 
 [![PyCharm](https://img.shields.io/badge/PyCharm-FFCA28?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=white)](https://www.jetbrains.com/pycharm/documentation/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/docs)
 [![Jupyter Notebook (Jupyter Lab)](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter-notebook.readthedocs.io/en/stable/)
