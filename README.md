@@ -13,7 +13,6 @@
 
 
 ## 👨‍💻 About Me
-
 ## I am Divya N V
 
 🎯 **Passion:** I'm passionate about the world of Artificial Intelligence and Machine Learning, always eager to explore and create innovative solutions. 🤖
