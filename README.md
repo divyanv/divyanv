@@ -13,7 +13,7 @@
 
 
 ## 👨‍💻 About Me
-## I am Divya N V
+<h2>I am Divya N V</h2>
 
 🎯 **Passion:** I'm passionate about the world of Artificial Intelligence and Machine Learning, always eager to explore and create innovative solutions. 🤖
 
@@ -26,8 +26,6 @@
 
 🤝 Collaboration: Let's connect and work together on projects that push the boundaries of AI and Machine Learning! Feel free to reach out for discussions, collaboration, or just to chat about the exciting world of technology. All the necessary details are provided below.
 
-
----
 
 
 ## 💻 Tech Stack
@@ -69,15 +67,11 @@
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-4285F4?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/notebooks/intro.ipynb)
 
 
----
-
 
 ## 🌐 Online Presence
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanv/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanv)
 
-
----
 
 
 ## 🧩 Code Platform Arcade
@@ -93,14 +87,9 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%47A248.svg?logo=geeksforgeeks&logoColor=FFFFFF&style=flat)](https://auth.geeksforgeeks.org/user/divyanv)
 
 
----
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=divyanv&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-
----
 
 
 
@@ -111,12 +100,6 @@
 
 
 
----
-
-
-
 ## 🚀 Inspirational Quote to stay motivated
 ![Random Machine Learning Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=AI%20is%20the%20new%20electricity.%20Just%20as%20100%20years%20ago%20electricity%20transformed%20industry%20after%20industry,%20AI%20will%20now%20do%20the%20same.&author=Andrew%20Ng)
 
-
----
