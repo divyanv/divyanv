@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .typewriter-text {
+    overflow: hidden;
+    border-right: 1px solid #333;
+    white-space: nowrap;
+    font-size: 18px;
+    font-family: monospace; /* Optional: Use a monospace font for a typewriter-like appearance */
+  }
+</style>
+</head>
+<body>
+<div class="typewriter-text" id="typed-text"></div>
+<script>
+  const textLines = [
+    "🎯 I'm Divya N V, passionate about the world of Artificial Intelligence and Machine Learning, always eager to explore and create innovative solutions. 🤖",
+    "💼 I'm currently open to exciting opportunities as an AI/ML Engineer or Software Developer in AI/ML. With a solid foundation in both software engineering and ML, I'm ready to tackle challenging projects and contribute to cutting-edge technology.",
+    "👨‍💻 I bring with me 1 year of work experience as a Software Engineer and valuable insights gained during my time as an AI intern. This combination of skills and knowledge allows me to blend the art of programming with the science of AI to build intelligent and efficient systems.",
+    "🤝 Let's connect and collaborate on projects that push the boundaries of AI and Machine Learning! Feel free to reach out for discussions, collaborations, or just to chat about the exciting world of technology, all the required details are provided below."
+  ];
+
+  let lineIndex = 0;
+  let charIndex = 0;
+  const typingSpeed = 50;
+
+  function typeText() {
+    if (lineIndex < textLines.length) {
+      const line = textLines[lineIndex];
+      if (charIndex < line.length) {
+        document.getElementById("typed-text").textContent += line.charAt(charIndex);
+        charIndex++;
+        setTimeout(typeText, typingSpeed);
+      } else {
+        lineIndex++;
+        charIndex = 0;
+        document.getElementById("typed-text").textContent += "\n";
+        setTimeout(typeText, typingSpeed);
+      }
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", typeText);
+</script>
+</body>
+</html>
