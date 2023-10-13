@@ -37,7 +37,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/contents.html)
 [![Seaborn](https://img.shields.io/badge/Seaborn-013243?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit-learn-FFA500?style=for-the-badge&logo=scikit-learn&logoColor=white&color=orange&labelColor=blue)](https://scikit-learn.org/stable/documentation.html)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-013243?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-E35A2B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/index.html)
 [![Spacy](https://img.shields.io/badge/Spacy-00B9F2?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/usage)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-21371B?style=for-the-badge&logo=beautiful-soup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
