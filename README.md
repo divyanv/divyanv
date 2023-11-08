@@ -56,7 +56,7 @@
 
 #### Database Technologies : 
 [![MYSQL](https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)](https://docs.microsoft.com/en-us/sql/t-sql/statements/)
-[![T-SQL](https://img.shields.io/badge/T-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/t-sql/statements/)
+<!-- [![T-SQL](https://img.shields.io/badge/T-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/t-sql/statements/) -->
 [![Microsoft SQL Server Integration Services (SSIS)](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/integration-services/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/manual/)
 
