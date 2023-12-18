@@ -1,9 +1,9 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: B0B0B0; font-size: 40px; font-weight: bold; margin: 10px 0;">Hello, Everyone! 👋</h1>
-<!--
+
 <div id="badges" align="left">
   <img src="https://komarev.com/ghpvc/?username=your-github-divyanv&color=blueviolet" alt=""/>
  </div>
--->
+
 
 
 <p align="center">
@@ -71,7 +71,7 @@
 ## 🌐 Online Presence
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanv/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanv)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanvaimldev@gmail.com)
+[![GEmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanvaimldev@gmail.com)
 
 
 
