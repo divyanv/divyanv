@@ -101,6 +101,5 @@
 
 
 
-
 ## 🚀 Inspirational Quote to stay motivated
 ![Random Machine Learning Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=AI%20is%20the%20new%20electricity.%20Just%20as%20100%20years%20ago%20electricity%20transformed%20industry%20after%20industry,%20AI%20will%20now%20do%20the%20same.&author=Andrew%20Ng)
