@@ -79,6 +79,7 @@
 ## 🧩 Code Platform Arcade
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23323330.svg?logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/divyanv)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/divyanv)
+<!--
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23D5B732.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/divyanv)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231D8DDB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/divyanv)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-00008b.svg?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@divyanv)
@@ -87,7 +88,7 @@
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-%230066B2.svg?logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/divyanv)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%23BD4932.svg?logo=codewars&logoColor=white)](https://www.codewars.com/users/divyanv)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%47A248.svg?logo=geeksforgeeks&logoColor=FFFFFF&style=flat)](https://auth.geeksforgeeks.org/user/divyanv)
-
+-->
 
 
 ## 🏆 GitHub Trophies
