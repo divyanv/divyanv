@@ -95,7 +95,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=divyanv&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=divyanv&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanv&theme=chartreuse-dark&hide_border=false)<br/>
