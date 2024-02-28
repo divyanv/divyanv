@@ -83,7 +83,7 @@
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-%230066B2.svg?logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/divyanv)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%47A248.svg?logo=geeksforgeeks&logoColor=FFFFFF&style=flat)](https://auth.geeksforgeeks.org/user/divyanv)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23D5B732.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/divyanv)
-[![Coding Ninja](https://img.shields.io/badge/Coding%20Ninja-%23F57F17.svg?logo=codingninjas&logoColor=white)](https://www.codingninjas.com/)
+
 
 <!--
 
@@ -92,6 +92,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/divyanv)
 [![Topcoder](https://img.shields.io/badge/Topcoder-%23FF4500.svg?logo=topcoder&logoColor=white)](https://www.topcoder.com/members/divyanv)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%23BD4932.svg?logo=codewars&logoColor=white)](https://www.codewars.com/users/divyanv)
+[![Coding Ninja](https://img.shields.io/badge/Coding%20Ninja-%23F57F17.svg?logo=codingninjas&logoColor=white)](https://www.codingninjas.com/)
 
 -->
 
