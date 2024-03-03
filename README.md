@@ -81,18 +81,17 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23323330.svg?logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/divyanv)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/divyanv)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-%230066B2.svg?logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/divyanv)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%47A248.svg?logo=geeksforgeeks&logoColor=FFFFFF&style=flat)](https://auth.geeksforgeeks.org/user/divyanv)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23D5B732.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/divyanv)
+[![CodeWars](https://img.shields.io/badge/CodeWars-%23BD4932.svg?logo=codewars&logoColor=white)](https://www.codewars.com/users/divyanv)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-00008b.svg?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@divyanv)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/divyanv)
 
 
 <!--
 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%47A248.svg?logo=geeksforgeeks&logoColor=FFFFFF&style=flat)](https://auth.geeksforgeeks.org/user/divyanv)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23D5B732.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/divyanv)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231D8DDB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/divyanv)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-00008b.svg?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@divyanv)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/divyanv)
 [![Topcoder](https://img.shields.io/badge/Topcoder-%23FF4500.svg?logo=topcoder&logoColor=white)](https://www.topcoder.com/members/divyanv)
-[![CodeWars](https://img.shields.io/badge/CodeWars-%23BD4932.svg?logo=codewars&logoColor=white)](https://www.codewars.com/users/divyanv)
-[![Coding Ninja](https://img.shields.io/badge/Coding%20Ninja-%23F57F17.svg?logo=codingninjas&logoColor=white)](https://www.codingninjas.com/)
 
 -->
 
