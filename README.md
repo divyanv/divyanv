@@ -23,13 +23,9 @@ Tags used to comment out things that are not necessary
 
 ## 👨‍💻🚀 Welcome to My GitHub Profile!
 
- Here you can find a curated collection of my skills, projects, and the tools I love using across different domains of Data Science, Machine Learning, Deep Learning, and AI. Check out the badges below representing my expertise in various libraries and technologies.
+Here you can find a curated collection of my skills, projects, and the tools I love using across different domains of Data Science, Machine Learning, Deep Learning, and AI. Check out the badges below representing my expertise in various libraries and technologies.
 
-<h2>Hi, I am Divya N V</h2>
-
-Great! Here’s an updated, clean, and professional version of your GitHub profile intro, tailored to reflect your role as a **Software Engineer working with AI/ML**, with **2+ years of experience** and a current focus on **Generative AI, LLMs, and Deep Learning**:
-
-### 👋 Hi, I'm Divya N V
+# 👋 Hi, I'm Divya N V
 
 💻 **Role:**
 I'm a **Software Engineer specializing in AI/ML**, with over **2+ years of professional experience** building intelligent systems and scalable machine learning solutions.
