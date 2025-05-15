@@ -148,14 +148,6 @@ You can find me here:
 [![LangChain](https://img.shields.io/badge/LangChain-2D9B46?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
 
-#### 🌐 Online Presence
-###### Here are my online profiles where you can connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanv/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanv)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanvaimldev@gmail.com)
-
-
-
 #### 🧩 Code Platform Arcade
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23323330.svg?logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/divyanv)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/divyanv)
