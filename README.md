@@ -28,7 +28,7 @@ Here you can find a curated collection of my skills, projects, and the tools I l
 # 👋 Hi, I'm Divya N V
 
 💻 **Role:**
-I'm a **Software Engineer specializing in AI/ML**, with over **2+ years of professional experience** building intelligent systems and scalable machine learning solutions.
+I'm a **Software Engineer specializing in AI/ML**, with over **4+ years of professional experience** building intelligent systems and scalable machine learning solutions.
 
 🧠 **Expertise:**
 My technical strengths span across:
